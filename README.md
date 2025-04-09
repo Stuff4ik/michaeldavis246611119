@@ -1,4 +1,4 @@
-version: '3.8'
+@michaeldavis246611119version: '3.8'
 
 services:
   app:
